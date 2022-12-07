@@ -40,7 +40,7 @@ https://pokeapi.co/
 - Excluir Pokémon
 
 
-- Utilize [ReactJS](https://reactjs.org/)
+- Utilize [ReactJS](https://reactjs.org/) ou [Vue.js](https://vuejs.org/)
 
 - Faça o uso de componentes de forma genérica e escalável;
 
