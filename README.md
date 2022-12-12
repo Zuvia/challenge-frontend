@@ -9,7 +9,7 @@ O teste prático deverá ser feito por você, no conforto da sua casa.
 - Faça um fork deste projeto em sua conta no [Github](https://github.com/join).
 - Crie um repositório *privado*, com a solução do seu desafio. 
 - Em seguida, desenvolva o projeto. 
-- Adicione como membro do repositório o usuario [@zuvia](https://github.com/zuvia).
+- Adicione como membro do repositório o usuario [@zuvia-company](https://github.com/zuvia-company).
 - Por fim, envie um email informando que concluiu o desafio p/ vagas@zuvia.com.br (coloque no assunto o nome do desafio)
 
 ## Descrição do projeto
